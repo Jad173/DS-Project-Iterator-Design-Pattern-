@@ -3,7 +3,7 @@
 
 How to run the program?
 
-Enter folder “HelloFX” navigate to file “src” then file “application”. In file “application” you will find two classes “Main” and “MainController”. Open “Main” on your IDE, since it contains the main method, then run it.
+Enter folder “HelloFX” navigate to file “src” then file “application”. In file “application” you will find two classes “Main.java” and “MainController.java”. Open “Main.java” on your IDE, since it contains the main method, and run it.
   
 Note: In case the program doesn’t run, then the issue is most likely due to not having JavaFX installed on your device. Therefore, you will have to download and install it from https://openjfx.io/openjfx-docs/ (find the version that best suits your device requirements). After installing JavaFX successfully, you will need to install JavaFX plugin. To do so using Eclipse, you will have to go to “Help”  “Eclipse Marketplace…” then find/search for “FX” and download “e(fx)clipse”. If you run into any more issues this short video might be of help: https://youtu.be/_7OM-cMYWbQ .
 
